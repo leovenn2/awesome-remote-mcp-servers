@@ -593,6 +593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [ZonRival](https://zonrival.com) `https://zonrival.com/mcp`
+  [![ZonRival MCP connector](https://glama.ai/mcp/connectors/com.zonrival/zonrival/badges/score.svg)](https://glama.ai/mcp/connectors/com.zonrival/zonrival)
+  🔐 - Amazon and Shopify competitor research: review complaints, price and rank history, listing audits and alerts.
 
 ### 🌳 <a name="environment"></a>Environment
 
